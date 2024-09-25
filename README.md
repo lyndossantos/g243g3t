@@ -1,1 +1,2 @@
-# g243g3t
+# Ciência de dados
+Emilyn e Marianna
